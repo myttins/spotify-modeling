@@ -17,3 +17,7 @@ This project analyzes and predicts the number of Spotify charts (`in_spotify_cha
 - **Best Model**: Linear Regression achieved the highest R² score.
 - **Key Features**: Energy, BPM, valence impact chart presence.
 
+### Video Demo
+
+https://drive.google.com/file/d/10PEhgFTYgr6lAFd7YmGmFkO0Vjq6H3nu/view?usp=share_link
+
