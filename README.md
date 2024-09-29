@@ -14,6 +14,6 @@ This project analyzes and predicts the number of Spotify charts (`in_spotify_cha
 ## Results
 
 - **Models Used**: Linear Regression, Random Forest Regressor.
-- **Best Model**: Tuned Random Forest achieved the highest R² score.
-- **Key Features**: Streams, danceability, valence significantly impact chart presence.
+- **Best Model**: Linear Regression achieved the highest R² score.
+- **Key Features**: Energy, BPM, valence impact chart presence.
 
